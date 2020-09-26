@@ -1,4 +1,6 @@
-# zupdemo
+# ZUP Demo
+
+Proposta de workflow de trabalho com GIT.
 
 - Feature 1
 
