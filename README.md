@@ -1,6 +1,6 @@
 # ZUP Demo
 
-Proposta de workflow de trabalho com GIT.
+New GIT workflow proposal.
 
 ## Feature 1
 
