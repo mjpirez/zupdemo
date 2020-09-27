@@ -31,4 +31,4 @@ New GIT workflow proposal.
 
 ### Part Three
 
-- Yeah.
+- Yeah. Now done.
