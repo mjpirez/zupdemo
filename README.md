@@ -13,3 +13,7 @@ Proposta de workflow de trabalho com GIT.
 ## Feature 4
 
 - New feature already using new layout.
+
+### Part Two
+
+- Now we are getting into business.
