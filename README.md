@@ -28,3 +28,7 @@ New GIT workflow proposal.
 
 - Now we are getting into business.
 - Look, two bullet points!
+
+### Part Three
+
+- Yeah. Now done.
