@@ -18,4 +18,4 @@ Proposta de workflow de trabalho com GIT.
 
 ### Part One
 
-- Feature parte one1!
+- Feature parte one.
