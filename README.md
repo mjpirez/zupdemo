@@ -17,3 +17,4 @@ Proposta de workflow de trabalho com GIT.
 ### Part Two
 
 - Now we are getting into business.
+- Look, two bullet points!
