@@ -30,6 +30,10 @@ New GIT workflow proposal.
 
 - Big impact feature in the app.
 
+## Feature 8
+
+- Out of ideas for descriptions for now on.
+
 ## Big Feature
 
 ### Part One
