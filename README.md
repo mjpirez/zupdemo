@@ -20,7 +20,7 @@ New GIT workflow proposal.
 
 ## Feature 5
 
-- The missing feature in the app.
+- The missing feature in the app - yeah.
 
 ## Feature 6
 
