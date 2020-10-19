@@ -22,6 +22,10 @@ New GIT workflow proposal.
 
 - The most important feature in the app.
 
+## Feature 7
+
+- Big impact feature in the app.
+
 ## Big Feature
 
 ### Part One
