@@ -18,6 +18,10 @@ New GIT workflow proposal.
 
 - New feature already using new layout.
 
+## Feature 5
+
+- The missing feature in the app - yeah.
+
 ## Feature 6
 
 - The most important feature in the app.
