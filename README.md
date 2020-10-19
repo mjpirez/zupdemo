@@ -22,6 +22,10 @@ New GIT workflow proposal.
 
 - New feature for concurrency testes.
 
+## Feature 6
+
+- The most important feature in the app.
+
 ## Big Feature
 
 ### Part One
