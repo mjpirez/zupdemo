@@ -1,0 +1,12 @@
+version: '2'
+services:
+  postgres:
+    image: postgres:9.6
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=poc
+      - POSTGRES_USER=poc
+      - POSTGRES_PASSWORD=poc
+    volumes:
+      - ./database-config.sql:/docker-entrypoint-initdb.d/setup.sql
